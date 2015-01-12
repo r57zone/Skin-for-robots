@@ -1,6 +1,4 @@
-Cheap sensitive skin for robots / Дешевая чувствительная кожа для роботов
-===============
-<h2>RU:</h2>
+<h2>RU: Дешевая чувствительная кожа для роботов</h2>
 Чувствительная кожа для робота<br>
 <br>![](https://github.com/r57zone/Skin-for-robots/blob/master/skin.png)
 <br>
@@ -13,7 +11,7 @@ Cheap sensitive skin for robots / Дешевая чувствительная к
 <br>
 При взаимодействии с предметами графитовая кнопка замыкает контакты. В зависимости от необходимой точности можно сделать необходимую высоту, которая будет показывать силу нажатия, например, 75%, 50%, 25%. 
 <br><br>
-<h2>EN:</h2>
+<h2>EN: Cheap sensitive skin for robots</h2>
 Sensitive skin for robots<br>
 <br>![](https://github.com/r57zone/Skin-for-robots/blob/master/skin.png)
 <br>
