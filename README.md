@@ -1,26 +1,10 @@
-<h2>RU: Дешевая чувствительная кожа для роботов</h2>
-Чувствительная кожа для робота<br>
-<br>![](https://github.com/r57zone/Skin-for-robots/blob/master/skin.png)
-<br>
-Множество графитовых кнопок разного размера<br>
-<br>
-![](https://github.com/r57zone/Skin-for-robots/blob/master/skin2.png)
-<br>Кнопки фиксируются только на нижней стенке кожи. На верхнюю стенку натягивается эластичный материал.
-<br>
-![](https://github.com/r57zone/Skin-for-robots/blob/master/skin3.png)
-<br>
-При взаимодействии с предметами графитовая кнопка замыкает контакты. В зависимости от необходимой точности можно сделать необходимую высоту, которая будет показывать силу нажатия, например, 75%, 50%, 25%. 
+<h2>RU: Чувствительная кожа для роботов</h2>
+![](https://github.com/r57zone/Skin-for-robots/blob/master/skin.png)
+Простой датчик чувствительности для роботов. При нажатии графитовая кнопка замыкает контакты. Имеет 3 позиции: 25% - легкое нажатие, 50% среднее и 75% сильное. 
 <br><br>
-<h2>EN: Cheap sensitive skin for robots</h2>
-Sensitive skin for robots<br>
-<br>![](https://github.com/r57zone/Skin-for-robots/blob/master/skin.png)
-<br>
-Set of buttons of different size of the graphite<br>
-<br>
-![](https://github.com/r57zone/Skin-for-robots/blob/master/skin2.png)
-<br>Buttons are fixed only on the bottom wall of the skin. The top wall is stretched elastic material.
-<br>
-![](https://github.com/r57zone/Skin-for-robots/blob/master/skin3.png)
-<br>
-When interacting with objects graphite button closes the contacts. Depending on the desired accuracy, we can make the necessary height, which will show a force of pressure, e.g., 75%, 50%, 25%. 
+Сначала замыкается первая позиция, из-за маленькой толщины стенок, она легче нажимается и за счет этого контакты замыкаются раньше чем у других позиций. Остальные замыкаются аналогично, поочередно. 
 <br><br>
+<h2>EN: Sensitive skin for robots</h2>
+Simple sensor sensitivity for robots. Pressing the button closes the graphite contacts. It has 3 positions: 25% - a slight depression, 50% average and 75% stronger.
+<br><br>
+First closes the first position, due to the small wall thickness, it is easily pressed and thereby contacts close earlier than at other positions. The rest is similar to closed alternately.
